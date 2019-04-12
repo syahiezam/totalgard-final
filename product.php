@@ -100,7 +100,7 @@
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance</br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -108,7 +108,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Organic Economy</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Organic Economy<br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Organic Economy<br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -116,7 +116,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -124,7 +124,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -160,7 +160,7 @@
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -168,7 +168,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -176,7 +176,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Laminating Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Laminating Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Laminating Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">High Optical<br>Grade Safety<br>PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. High Optical Grade<br>Safety PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">High Optical Grade<br>Safety PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-5">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">5. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -200,7 +200,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-6">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">6. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -232,7 +232,7 @@
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -240,7 +240,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -248,7 +248,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -256,7 +256,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -288,7 +288,7 @@
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -296,7 +296,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -304,7 +304,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -312,7 +312,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -326,23 +326,23 @@
               <div class="product-content-text-content">Our Reflective Films are evenly coated with nano-thin, partially transparent layer of aluminium. These aluminium are more expensive than other steel as they inhibits mirror like finish meanwhile, it’s matrix arrangement of particle allows high transparency and reflective. For high reflectivity films usually they are used to prevent visibility from outside during the day and vice versa during the night.</div>
               <div class="product-content-text-title text-center text-xl-left">KEY FEATURES</div>
               <div class="product-content-icon d-flex">
-                <div class="product-content-icon-item"><img src="images/product-icon-5-1.png"><div class="product-content-text-icon">Stable colour performance</div></div>
-                <div class="product-content-icon-item"><img src="images/product-icon-5-2.png"><div class="product-content-text-icon">High Durability</div></div>
-                <div class="product-content-icon-item"><img src="images/product-icon-5-3.png"><div class="product-content-text-icon">UV Protection</div></div>
-                <div class="product-content-icon-item"><img src="images/product-icon-5-4.png"><div class="product-content-text-icon">Reflective</div></div>
-              </div>
-              <div class="product-content-icon d-flex">
-                <div class="product-content-icon-item"><img src="images/product-icon-5-5.png"><div class="product-content-text-icon">High Heat Rejection</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-5-1.png"><div class="product-content-text-icon">Stable colour performance</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-5-2.png"><div class="product-content-text-icon">High Durability</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-5-3.png"><div class="product-content-text-icon">UV Protection</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-5-4.png"><div class="product-content-text-icon">Reflective</div></div>
+              <!-- </div>
+              <div class="product-content-icon d-flex"> -->
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-5-5.png"><div class="product-content-text-icon">High Heat Rejection</div></div>
+                <!-- <div class="product-content-icon-item"></div>
                 <div class="product-content-icon-item"></div>
-                <div class="product-content-icon-item"></div>
-                <div class="product-content-icon-item"></div>
+                <div class="product-content-icon-item"></div> -->
               </div>
               <div class="product-content-text-title text-center text-xl-left">PRODUCT STRUCTURE</div>
               <div class="product-content-text-content">Constructed with High Grade Optical Safety PET Film and combined with Nano Ceramic Infusion PET Film which are thicker polyester films that are applied to glass with the primary purpose to reduce the impact from shattered glass during accidents or disasters. The product is also strengthened with specially formulated high strength adhesive and thicker pressure sensitive adhesive coatings to increase adhesion to glass surfaces. The safety-films’ toughened glazing also provides greater deterrence during forced break-ins.</div>
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -350,7 +350,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -358,7 +358,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Laminating Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Laminating Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Laminating Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -366,7 +366,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">High Optical<br>Grade Safety<br>PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. High Optical Grade<br>Safety PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">High Optical Grade<br>Safety PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -374,7 +374,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-5">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">5. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -382,7 +382,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-6">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">6. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -396,23 +396,23 @@
               <div class="product-content-text-content">Our Infusion Nano Ceramic + Pigment films are made by Infusion Nano Ceramic (PET) Film coated with fine nano-sized pigment particles which are blended into our adhesive by the addition of pigment binder and dispersion agents. This results in fine coated films with coherent structures of pigment and adhesive bonded together. These type of pigments films are more durable than the normal organic dyes coated films. Pigments itself is made of inorganic compounds hence it have the ability to reduce heat itself and having a lower haze levels which are similar to dyed window films. The pigment films made using this method have outstanding light stability for a longer period of time.</div>
               <div class="product-content-text-title text-center text-xl-left">KEY FEATURES</div>
               <div class="product-content-icon d-flex">
-                <div class="product-content-icon-item"><img src="images/product-icon-6-1.png"><div class="product-content-text-icon">High Heat Rejection</div></div>
-                <div class="product-content-icon-item"><img src="images/product-icon-6-2.png"><div class="product-content-text-icon">UV Protection</div></div>
-                <div class="product-content-icon-item"><img src="images/product-icon-6-3.png"><div class="product-content-text-icon">Environmental Friendly</div></div>
-                <div class="product-content-icon-item"><img src="images/product-icon-6-4.png"><div class="product-content-text-icon">Long Lasting Performance</div></div>
-              </div>
-              <div class="product-content-icon d-flex">
-                <div class="product-content-icon-item"><img src="images/product-icon-6-5.png"><div class="product-content-text-icon">Natural Appearance</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-6-1.png"><div class="product-content-text-icon">High Heat Rejection</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-6-2.png"><div class="product-content-text-icon">UV Protection</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-6-3.png"><div class="product-content-text-icon">Environmental Friendly</div></div>
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-6-4.png"><div class="product-content-text-icon">Long Lasting Performance</div></div>
+              <!-- </div>
+              <div class="product-content-icon d-flex"> -->
+                <div class="product-content-icon-item icon-5"><img src="images/product-icon-6-5.png"><div class="product-content-text-icon">Natural Appearance</div></div>
+                <!-- <div class="product-content-icon-item"></div>
                 <div class="product-content-icon-item"></div>
-                <div class="product-content-icon-item"></div>
-                <div class="product-content-icon-item"></div>
+                <div class="product-content-icon-item"></div> -->
               </div>
               <div class="product-content-text-title text-center text-xl-left">PRODUCT STRUCTURE</div>
               <div class="product-content-text-content">Our Infusion Nano Ceramic + Pigment Series window films are made from polyster (PET) with the highest optical grade coated with ultrafine inorganic pigments. Pigments used are derived from inorganic material such as carbon black, manganese ferrite, chromium iron oxide, nickel, antimony, titanium and etc. Pigments have better properties compared to conventional organic dye colour as it is more durable due to its stable state of properties under sunlight.</div>
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -420,7 +420,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -428,7 +428,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Laminating Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Laminating Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Laminating Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -436,7 +436,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">High Optical<br>Grade Safety<br>PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. High Optical Grade<br>Safety PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">High Optical Grade<br>Safety PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -444,7 +444,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-5">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">5. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -452,7 +452,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-6">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">6. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -476,7 +476,7 @@
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -484,7 +484,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -492,7 +492,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -500,7 +500,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -532,7 +532,7 @@
               <div class="product-content-float">
                 <div class="product-content-float-layer product-content-float-layer-1">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Scratch Resistance<br>Hard Coating</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">1. Scratch Resistance<br>Hard Coating</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Scratch Resistance<br>Hard Coating</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -540,7 +540,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-2">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Nano Ceramic</br>Infusion PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">2. Nano Ceramic</br>Infusion PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Nano Ceramic</br>Infusion PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -548,7 +548,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-3">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Laminating Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">3. Laminating Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Laminating Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -556,7 +556,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">High Optical<br>Grade Safety<br>PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">4. High Optical Grade<br>Safety PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">High Optical Grade<br>Safety PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
@@ -564,7 +564,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-5">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-left ">Mounting Adhesive</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">5. Mounting Adhesive</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Mounting Adhesive</div>
                   <svg class="d-none d-xl-block layer-line layer-line-left" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M30 10 0 0"/></g>
                   </svg>
@@ -572,7 +572,7 @@
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-6">
                   <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Silicone<br>Release Liner</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">6. Silicone<br>Release Liner</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Silicone<br>Release Liner</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>

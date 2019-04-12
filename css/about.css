@@ -366,6 +366,7 @@
 .gridtext
 {
   text-align: justify;
+  text-align-last: center;
   animation: slide-out-bottom2 1s;
   animation-fill-mode: forwards;
 }

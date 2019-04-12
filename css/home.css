@@ -114,6 +114,7 @@
   line-height: 1;
   font-size: 16px;
   text-align: right;
+  font-size: 14px;
 }
 
 .index-title{
@@ -201,6 +202,7 @@
 .customer{
   flex: 1;
   text-align: center;
+  height: 150%;
 }
 .customer img{
   max-width: 100%;
@@ -209,4 +211,8 @@
 .footer-cert{
   padding:30px;
   width:80%;
+}
+
+.border{
+  min-width: 50px;
 }

@@ -65,7 +65,7 @@
                 <div class="contact-heading-1">OPENING HOURS</div>
                 <div class="contact-text-1">Monday - Friday 8.30am - 6pm</div>
                 <div class="contact-heading-1">EMAIL US</div>
-                <div class="contact-text-1">sales@totalgardmanufacturing.com</div>
+                <div class="contact-text-1 mb-5">sales@totalgardmanufacturing.com</div>
               </div>
 
               <div class="contact-select-2">
@@ -78,7 +78,7 @@
                 <div class="contact-heading-1">OPENING HOURS</div>
                 <div class="contact-text-1">Monday - Friday 8.30am - 6pm</div>
                 <div class="contact-heading-1">EMAIL US</div>
-                <div class="contact-text-1">sales@totalgardmanufacturing.com</div>
+                <div class="contact-text-1 mb-5">sales@totalgardmanufacturing.com</div>
               </div>
             </div>
           </div>

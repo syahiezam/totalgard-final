@@ -18,8 +18,8 @@
         <div class="modal-body">
           <div class="col-12 modal-img d-none d-xl-block"><img src="images/newsletter.png" width="100%" height=""/></div>
           <div class="col-12 modal-img-mobile d-xl-none"><img src="images/newsletter.png" width="100%" height=""/></div>
-          <h5 style="color:#ED1C24;">Subscribe and receive our latest news</h5>
-          <h5 style="color:#ED1C24;">Exclusive offers direct to your inbox.</h5>
+          <h5 style="color:#ED1C24;">SUBSCRIBE AND RECEIVE <br>OUR LATEST NEWS,</h5>
+          <h5 style="color:#ED1C24;">EXCLUSIVE OFFERS DIRECT <br>TO YOUR INBOX!</h5>
           <div class="form-group">
             <form>
               <div class="form-group">
@@ -203,14 +203,13 @@
           <div class="container text-center">
 
             <p class="col-8 offset-2">At Totalgard, sustainability is one of the upmost important thing that
-            we persue. We make use of materials which are unrecycable to produce products
+            we pursue. We make use of materials which are unrecycable to produce products
           which are beneficial for people and the planet.</p>
         </div>
 
 
         <div class="container mt-5">
           <div class="row">
-
             <div class="col-sm">
 
               <div class="container-fluid text-center">
@@ -270,18 +269,27 @@
                   <div class="customer">
                     <img src="images/icontall/cert1.png"/>
                   </div>
+                  <div class="border border-primary home-border"></div>
                   <div class="customer">
                     <img src="images/icontall/cert2.png"/>
                   </div>
+                  <div class="border border-primary home-border"></div>
+
                   <div class="customer">
                     <img src="images/icontall/cert3.png"/>
                   </div>
+                  <div class="border border-primary home-border"></div>
+
                   <div class="customer">
                     <img src="images/icontall/cert4.png"/>
                   </div>
+                  <div class="border border-primary home-border"></div>
+
                   <div class="customer">
                     <img src="images/icontall/cert5.png"/>
                   </div>
+                  <div class="border border-primary home-border"></div>
+                  
                   <div class="customer">
                     <img src="images/icontall/cert6.png"/>
                   </div>
