@@ -75,7 +75,7 @@
                 <div><div><img class="slider-img-main" src="images/home-slider-3-main.png" alt=""></div></div>
               <div><div><img class="slider-img-main" src="images/home-slider-1-main.png" alt=""></div></div>
               <div><div><img class="slider-img-main" src="images/home-slider-2-main.png" alt=""></div></div>
-              
+
             </div>
             <div class="container">
               <div class="row">
@@ -107,7 +107,7 @@
                         We are able to supply to any car manufacturer with ease as we have many years of expertise, specialized installation methods and precise film cutting machinery. As of currently, we have installed over more than 1,000,000 cars directly at the car manufacturers’ venue and the numbers are still growing. With a manpower of more than 300 installers, we are able to cope with the high quantity of cars supplied by the car manufacturers.
                       </div>
                     </div>
-                    
+
                   </div>
                 </div>
 
@@ -116,7 +116,7 @@
                       <div><div><img class="slider-img" src="images/home-slider-3.png" alt=""></div></div>
                     <div><div><img class="slider-img" src="images/home-slider-1.png" alt=""></div></div>
                     <div><div><img class="slider-img" src="images/home-slider-2.png" alt=""></div></div>
-                    
+
                   <!-- <div><div class="kontol2">1</div></div>
                     <div><div class="kontol2">2</div></div>
                     <div><div class="kontol2">3</div></div> -->
@@ -215,7 +215,7 @@
 
               <div class="container-fluid text-center">
                 <img class="gridicon" src="images/i_gif4.gif">
-                <div class="index-title">CUSTOMER FOCUSED</div>
+                <div class="index-title index-title-main">CUSTOMER FOCUSED</div>
                 <div class="text-justify index-text">
                 <p>We are seeking to build a long term and effective customer base.
         We strive to continually meet and surpass customers expectation
@@ -249,7 +249,7 @@
             <div class="col-sm">
               <div class="container-fluid text-center">
                 <img class="gridicon" src="images/igif_4.gif">
-                <div class="index-title">QUALITY DRIVER</div>
+                <div class="index-title">QUALITY DRIVEN</div>
                 <div class="text-justify index-text">
                 <p>We have attained merits from our customers for delivering high
         quality products and our aim is to provide maximum quality from

@@ -37,7 +37,7 @@
               MALAYSIA
             </li>
             <li class="footer-desktop-4">PHONE: +603-6259 3018</li>
-            <li class="footer-desktop-4">EMAIL: sales@totalgardmarketing.com</li>
+            <li class="footer-desktop-4">EMAIL: sales@totalgardmanufacturing.com</li>
           </ul>
         </div>
       </div>

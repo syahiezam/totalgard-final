@@ -20,7 +20,7 @@
             <div class="about-us-animation">
             <div class="headlinefont"> OUR STORY </div>
             <div class="headlinetext"> Totalgard is a well-known window films manufacturer in Malaysia.
-              The window film products provided by us are propitous for commercial, automotive and residential applications. We are identified for our apical standard of customer service. Window films supplied at Totalgard Manufacturing are manufactured from top-notch quality polysters which fits the demand of our customers worldwide. </div>
+              The window film products provided by us are propitious for commercial, automotive and residential applications. We are identified for our apical standard of customer service. Window films supplied at Totalgard Manufacturing are manufactured from top-notch quality polyesters which fits the demand of our customers worldwide. </div>
           </div>
           </div>
           <div class="box bg-box" style="height: 100vh; width: 100%;">

@@ -24,7 +24,7 @@
         <a class="nav-item header-link-desktop page-2" href="about.php"><span class="triangle-1-2"><span class="triangle-2-2"><span class="header-link-desktop-hover">ABOUT US</span></span></span></a><span>|</span>
         <a class="nav-item header-link-desktop page-3" href="product.php"><span class="triangle-1-3"><span class="triangle-2-3"><span class="header-link-desktop-hover">PRODUCT</span></span></span></a><span>|</span>
         <a class="nav-item header-link-desktop page-4" href="innovation.php"><span class="triangle-1-4"><span class="triangle-2-4"><span class="header-link-desktop-hover">INNOVATION</span></span></span></a><span>|</span>
-        <a class="nav-item header-link-desktop page-5" href="locator.php"><span class="triangle-1-5"><span class="triangle-2-5"><span class="header-link-desktop-hover">INSTALLER<br>LOCATOR</span></span></span></a><span>|</span>
+        <a class="nav-item header-link-desktop page-5" href="locator.php"><span class="triangle-1-5"><span class="triangle-2-5"><span class="header-link-desktop-hover">PARTNER<br>LOCATOR</span></span></span></a><span>|</span>
         <a class="nav-item header-link-desktop page-6" href="contact.php"><span class="triangle-1-6"><span class="triangle-2-6"><span class="header-link-desktop-hover">CONTACT US</span></span></span></a>
       </div>
 

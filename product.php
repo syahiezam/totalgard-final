@@ -25,10 +25,10 @@
               <div class="product-item-text product-item-text-desktop product-item-text-3 d-none">INFUSION NANO<br>CERAMIC FILMS</div>
             </div>
             <div class="product-item product-item-desktop product-item-4">
-              <div class="product-item-text product-item-text-desktop product-item-text-4 d-none">INFUSION NANO<br>CERAMIC<br>UV400 FILMS</div>
+              <div class="product-item-text product-item-text-desktop product-item-text-4 d-none">INFUSION NANO<br>CERAMIC<br>FULL UV FILMS</div>
             </div>
             <div class="product-item product-item-desktop product-item-5">
-              <div class="product-item-text product-item-text-desktop product-item-text-5 d-none">INFUSION NANO<br>CERAMIC +<br>REFLECTIVE (2PLY)<br>FILMS</div>
+              <div class="product-item-text product-item-text-desktop product-item-text-5 d-none">INFUSION NANO<br>CERAMIC +<br>REFLECTIVE<br>FILMS</div>
             </div>
             <div class="product-item product-item-desktop product-item-6">
               <div class="product-item-text product-item-text-desktop product-item-text-6 d-none">INFUSION NANO<br>CERAMIC +<br>PIGMENT FILMS</div>
@@ -54,7 +54,7 @@
               <div class="product-item-text-mobile product-item-text-3 product-item-text-mobile-3">INFUSION NANO CERAMIC FILMS</div>
             </div>
             <div class="product-item product-item-4">
-              <div class="product-item-text-mobile product-item-text-4 product-item-text-mobile-4">INFUSION NANO CERAMIC UV400 FILMS</div>
+              <div class="product-item-text-mobile product-item-text-4 product-item-text-mobile-4">INFUSION NANO CERAMIC FULL UV</div>
             </div>
             <div class="product-item product-item-5">
               <div class="product-item-text-mobile product-item-text-5 product-item-text-mobile-5">INFUSION NANO CERAMIC + REFLECTIVE (2PLY)<br>FILMS</div>
@@ -79,8 +79,8 @@
             <div class="product-content-text-main product-content-text-main-1 text-center text-xl-left">INFUSION LITE FILMS</div>
             <div class="product-content-text-main product-content-text-main-2 text-center text-xl-left">INFUSION NANO CERAMIC<br>SAFETY FILMS</div>
             <div class="product-content-text-main product-content-text-main-3 text-center text-xl-left">INFUSION NANO CERAMIC FILMS</div>
-            <div class="product-content-text-main product-content-text-main-4 text-center text-xl-left">INFUSION NANO CERAMIC UV400 FILMS</div>
-            <div class="product-content-text-main product-content-text-main-5 text-center text-xl-left">INFUSION NANO CERAMIC + REFLECTIVE (2PLY) FILMS</div>
+            <div class="product-content-text-main product-content-text-main-4 text-center text-xl-left">INFUSION NANO CERAMIC FULL UV FILMS</div>
+            <div class="product-content-text-main product-content-text-main-5 text-center text-xl-left">INFUSION NANO CERAMIC + REFLECTIVE FILMS</div>
             <div class="product-content-text-main product-content-text-main-6 text-center text-xl-left">INFUSION NANO CERAMIC + PIGMENT FILMS</div>
             <div class="product-content-text-main product-content-text-main-7 text-center text-xl-left">INFUSION NID FILMS</div>
             <div class="product-content-text-main product-content-text-main-8 text-center text-xl-left">INFUSION PRO FILMS</div>
@@ -267,7 +267,7 @@
 
             <div class="product-content-text-child product-content-4">
               <div class="product-content-text-title text-center text-xl-left">OVERVIEW</div>
-              <div class="product-content-text-content">Our Infusion UV400 Series are using the latest UV400++ technology available. By using UV400++ technology, 100% of UV Rays (UVA, UVB, UVC) are blocked by the films itself. Most of the films available in the market are only able to block UV Rays of up to 380nm, which is insufficient in our point of view. Over exposure of UV Rays can cause damage to both our skin and eyes. It can also lead to skin cancer if exposed to for a long period of time. Unlike the conventional way of producing UV400 films, ours are made by using Infusion technology which embed the UV Rejection properties into the PET Films itself. This ensure the UV additives will not be in contact with air itself which will cause the loss of it’s effectiveness over time.</div>
+              <div class="product-content-text-content">Our Infusion UV400 Series are using the latest FULL UV technology available. By using FULL UV technology, 100% of UV Rays (UVA, UVB, UVC) are blocked by the films itself. Most of the films available in the market are only able to block UV Rays of up to 380nm, which is insufficient in our point of view. Over exposure of UV Rays can cause damage to both our skin and eyes. It can also lead to skin cancer if exposed to for a long period of time. Unlike the conventional way of producing UV400 films, ours are made by using Infusion technology which embed the UV Rejection properties into the PET Films itself. This ensure the UV additives will not be in contact with air itself which will cause the loss of it’s effectiveness over time.</div>
               <div class="product-content-text-title text-center text-xl-left">KEY FEATURES</div>
               <div class="product-content-icon d-flex">
                 <div class="product-content-icon-item"><img src="images/product-icon-4-1.png"><div class="product-content-text-icon">UV Protection</div></div>
@@ -282,7 +282,7 @@
                 <div class="product-content-icon-item"></div>
               </div>
               <div class="product-content-text-title text-center text-xl-left">PRODUCT STRUCTURE</div>
-              <div class="product-content-text-content">Constructed from Nano Ceramic UV400 Infusion Polyester (PET) film which is the latest technology available today. By using UV400++, 100% of UV Rays (UVA, UVB, UVC) are blocked by the films itself. Most of the films available in the market are only able to block UV Rays of up to 380nm, which is insufficient. Over exposure of UV Rays can cause damage to both our skin and eyes. It can also lead to skin cancer if exposed to for a long period of time.
+              <div class="product-content-text-content">Constructed from Nano Ceramic UV400 Infusion Polyester (PET) film which is the latest technology available today. By using FULL UV, 100% of UV Rays (UVA, UVB, UVC) are blocked by the films itself. Most of the films available in the market are only able to block UV Rays of up to 380nm, which is insufficient. Over exposure of UV Rays can cause damage to both our skin and eyes. It can also lead to skin cancer if exposed to for a long period of time.
               <br><br>
               UV400 protection is considered to provide 100% protection against harmful ultraviolet rays, including UVt-Max, UVA, UVB and UVC. It is called UV400, because it blocks all the rays of light up to a wavelength of 400 nanometers. UV400 has a higher level of UV protection than other all types of window tinted film available in the market.</div>
               <div class="product-content-float">

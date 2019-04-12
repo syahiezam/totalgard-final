@@ -122,10 +122,18 @@
   font-weight: bold;
   height: 60px;
   vertical-align: middle;
+  color: black;
+  /* padding-top: 10px; */
+}
+
+.index-title-main{
+  padding-top: 0px;
+  /* color: red; */
 }
 
 .index-text{
   font-size: 14px;
+  text-align-last: center;
 }
 
 .home-slider-top{

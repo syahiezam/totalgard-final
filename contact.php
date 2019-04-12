@@ -38,14 +38,14 @@
       <div class="container">
         <div class="row">
           <div class="contact-column col-lg-6">
-            <div class="contact-heading-1">WE'D LOVE TO MEET</div>
+            <div class="contact-heading-1">WE'D LOVE TO MEET YOU</div>
             <div class="w-100">
               <div id="map" class="contact-map"></div>
               <div class="contact-rotate text-nowrap">
                 <input id="toggle-on" class="toggle toggle-left" name="toggle" value="false" type="radio" checked>
-                <label id="contact-map-1" for="toggle-on" class="btn contact-btn-1">FACTORY</label>
+                <label id="contact-map-1" for="toggle-on" class="btn contact-btn-1">HEADQUARTER</label>
                 <input id="toggle-off" class="toggle toggle-right" name="toggle" value="true" type="radio">
-                <label id="contact-map-2" for="toggle-off" class="btn contact-btn-1">HEADQUARTER</label>
+                <label id="contact-map-2" for="toggle-off" class="btn contact-btn-1">FACTORY</label>
               </div>
             </div>
             <div class="contact-move d-none">
@@ -56,28 +56,29 @@
               </div>
               <div class="contact-select-1">
                 <div class="contact-text-1">
+                  No 14, Jalan Metro Perdana<br>
+                  Barat 9, Sri Edaran Kepong<br>
+                  52100 Kuala Lumpur<br>
+                  Malaysia
+
+                </div>
+                <div class="contact-heading-1">OPENING HOURS</div>
+                <div class="contact-text-1">Monday - Friday 8.30am - 6pm</div>
+                <div class="contact-heading-1">EMAIL US</div>
+                <div class="contact-text-1">sales@totalgardmanufacturing.com</div>
+              </div>
+
+              <div class="contact-select-2">
+                <div class="contact-text-1">
                   Lot No.23 Jalan Zurah 5a<br>
                   Pusat Perindustrian Zurah<br>
                   44200 Hulu Selangor<br>
                   Selangor, Malaysia
                 </div>
                 <div class="contact-heading-1">OPENING HOURS</div>
-                <div class="contact-text-1">Monday - Saturday 9am - 6pm</div>
+                <div class="contact-text-1">Monday - Friday 8.30am - 6pm</div>
                 <div class="contact-heading-1">EMAIL US</div>
-                <div class="contact-text-1">totalgard.world@gmail.com</div>
-              </div>
-
-              <div class="contact-select-2">
-                <div class="contact-text-1">
-                  No 14, Jalan Metro Perdana<br>
-                  Barat 9, Sri Edaran Kepong<br>
-                  52100 Kuala Lumpur<br>
-                  Malaysia
-                </div>
-                <div class="contact-heading-1">OPENING HOURS</div>
-                <div class="contact-text-1">Monday - Saturday 9am - 6pm</div>
-                <div class="contact-heading-1">EMAIL US</div>
-                <div class="contact-text-1">totalgard.world@gmail.com</div>
+                <div class="contact-text-1">sales@totalgardmanufacturing.com</div>
               </div>
             </div>
           </div>

@@ -71,7 +71,7 @@
               <div class="innovation-accordion-frame innovation-accordion-background-4">
                 <div class="innovation-accordion-content accordion-content-4">
                   <div class="innovation-accordion-content-text">
-                    <div class="innovation-accordion-content-text-1">INFUSED P.E.T. TECHNOLOGY</div>
+                    <div class="innovation-accordion-content-text-1">INFUSED <br>P.E.T. <br>TECHNOLOGY</div>
                     <div class="innovation-accordion-content-text-2">By using the latest Bruckner BOPET line and co-sharing it with our partner, we are able to create a functional PET base film by embedding the fine properties of heat rejection into the PET base film itself.</div>
                   </div>
                   <div class="innovation-accordion-content-button text-center d-none">
@@ -89,7 +89,7 @@
               <div class="innovation-accordion-frame innovation-accordion-background-5">
                 <div class="innovation-accordion-content accordion-content-5">
                   <div class="innovation-accordion-content-text">
-                    <div class="innovation-accordion-content-text-1">UV400++ TECHNOLOGY</div>
+                    <div class="innovation-accordion-content-text-1">FULL UV TECHNOLOGY</div>
                     <div class="innovation-accordion-content-text-2">By using the latest Bruckner BOPET line and co-sharing it with our partner, we are able to create a functional PET base film by embedding the fineproperties of heat rejection into the PET base film itself.</div>
                   </div>
                   <div class="innovation-accordion-content-button text-center d-none">
@@ -99,7 +99,7 @@
               </div>
             </div>
             <button type="button" class="btn innovation-accordion-button innovation-accordion-button-5 accordian-button-5 text-center" data-toggle="collapse" data-target="#accordian-collapse-5">
-              <div class="innovation-accordion-rotate mx-auto">UV400++ TECHNOLOGY</div>
+              <div class="innovation-accordion-rotate mx-auto">FULL UV TECHNOLOGY</div>
             </button>
           </div>
         </div>
@@ -198,7 +198,7 @@
                     <div class="accordion-content-5 text-center">
                       <div class="innovation-accordion-content-text-container">
                         <div class="d-none d-lg-block" style="height:60px;"></div>
-                        <div class="innovation-accordion-content-text-1-m text-lg-left">UV400++ TECHNOLOGY</div>
+                        <div class="innovation-accordion-content-text-1-m text-lg-left">FULL UV TECHNOLOGY</div>
                         <div class="innovation-accordion-content-text-2">By using the latest Bruckner BOPET line and co-sharing it with our partner, we are able to create a functional PET base film by embedding the fineproperties of heat rejection into the PET base film itself.</div>
                       </div>
                       <button type="button" class="btn accordian-button-4 d-none" data-toggle="collapse" data-target="#accordian-collapse-4" ><img class="innovation-accordion-button-img" src="images/innovation-button-l.png"></button>
@@ -207,7 +207,7 @@
                 </div>
               </div>
             </div>
-            <button type="button" class="btn innovation-accordion-button-m innovation-accordion-button-5 accordian-button-5 text-center" data-toggle="collapse" data-target="#accordian-collapse-5">UV400++ TECHNOLOGY</button>
+            <button type="button" class="btn innovation-accordion-button-m innovation-accordion-button-5 accordian-button-5 text-center" data-toggle="collapse" data-target="#accordian-collapse-5">FULL UV TECHNOLOGY</button>
           </div>
         </div>
 

@@ -25,8 +25,8 @@
 
           <div class="col-lg-8">
             <div class="locator-bar">
-              <div class="locator-header d-none d-md-block text-center">INSTALLER LOCATOR</div>
-              <div class="locator-header-m d-md-none text-center">INSTALLER LOCATOR</div>
+              <div class="locator-header d-none d-md-block text-center">PARTNER LOCATOR</div>
+              <div class="locator-header-m d-md-none text-center">PARTNER LOCATOR</div>
               <div class="container">
                 <div class="row">
                   <div class="col-sm-6 col-md-3">
@@ -159,7 +159,7 @@
                 <div class="locator-content-header">OPENING HOURS</div>
                 <div class="locator-content-text-1">Monday-Saturday 9am - 6pm</div>
                 <div class="locator-content-header">EMAIL US</div>
-                <div class="locator-content-text-1">eastmalaysia@totalgardmarketing.com</div>
+                <div class="locator-content-text-1">eastmalaysia@totalgardmanufacturing.com</div>
                 <div class="locator-content-text-2">For questions and feedback about our Store, you can call us on +03-6258 8669 (office hour) or send an email to eastmalaysia@totalgardmanufacturing.com. When you contact Customer Service your personal data will be processed in accordance with our Privacy Notice.</div>
               </div>
               <div class="locator-content locator-content-4 text-center d-none">
@@ -168,7 +168,7 @@
                 <div class="locator-content-header">OPENING HOURS</div>
                 <div class="locator-content-text-1">Monday-Saturday 9am - 6pm</div>
                 <div class="locator-content-header">EMAIL US</div>
-                <div class="locator-content-text-1">singapore@totalgardmarketing.com</div>
+                <div class="locator-content-text-1">singapore@totalgardmanufacturing.com</div>
                 <div class="locator-content-text-2">For questions and feedback about our Store, you can call us on +65-97332149 / +65-92472424 (office hour) or send an email to singapore@totalgardmanufacturing.com. When you contact Customer Service your personal data will be processed in accordance with our Privacy Notice.</div>
               </div>
               <div class="locator-content locator-content-5 text-center d-none">
