@@ -555,8 +555,8 @@
                   <img class="d-xl-block" src="images/product-layer-3.png">
                 </div>
                 <div class="product-content-float-layer product-content-float-layer-4">
-                  <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">High Optical<br>Grade Safety<br>PET Film</div>
-                  <div class="d-xl-none layer-text layer-text-mobile">High Optical Grade<br>Safety PET Film</div>
+                  <div class="d-none d-xl-block layer-text layer-text-desktop layer-text-right ">Non-Oxidation<br>Alloy Sputtered<br>PET Film</div>
+                  <div class="d-xl-none layer-text layer-text-mobile">Non-Oxidation<br>Alloy Sputtered<br>PET Film</div>
                   <svg class="d-none d-xl-block layer-line layer-line-right" viewBox="0 0 30 10" width="30" height="10">
                     <g stroke="#000000" stroke-width="2" fill="none"><path d="M0 10 30 0" /></g>
                   </svg>
