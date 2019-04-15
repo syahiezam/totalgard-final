@@ -14,9 +14,9 @@
         <div class="col-md-4">
           <div class="footer-desktop-3">FAQ</div>
           <ul class="list-unstyled">
-            <li class="footer-desktop-4"><a class="footer-link" href="">SERVICES</a></li>
             <li class="footer-desktop-4"><a class="footer-link" href="">TERMS & CONDITION</a></li>
             <li class="footer-desktop-4"><a class="footer-link" href="">PRIVACY POLICY</a></li>
+            <li class="footer-desktop-4"><a class="footer-link" href="">SUPPORT</a></li>
           </ul>
         </div>
         <div class="col-md-4">
@@ -64,9 +64,9 @@
         </button>
         <div class="navbar-collapse collapse align-items-center" id="footer-collapse-1"  data-parent="#footer-accordion">
           <ul class="list-unstyled">
-            <li class="footer-mobile-4"><a class="footer-link" href="">SERVICES</a></li>
             <li class="footer-mobile-4"><a class="footer-link" href="">TERMS & CONDITION</a></li>
             <li class="footer-mobile-4"><a class="footer-link" href="">PRIVACY POLICY</a></li>
+            <li class="footer-mobile-4"><a class="footer-link" href="">SUPPORT</a></li>
           </ul>
         </div>
       </div>
