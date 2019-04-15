@@ -80,7 +80,7 @@
             <div class="container">
               <div class="row">
 
-                <div class="col-lg-4 offset-1">
+                <div class="col-lg-5 offset-1">
 
                   <div class="slider slider-for">
                       <div>
@@ -93,18 +93,18 @@
                     </div>
                     <div>
                       <div class="home-slider-title">
-                        PROJECT SERVICES
+                        OEM/REM SUPPLY                        
                       </div>
                       <div class="home-slider-text">
-                        We provide solutions and services for the commercial and residential sector, where experiencing heat through windows is a common occurrence every day. We have experienced installers that are able to install window films from residential to high rise buildings. We also install window films for various corporates as well, from banks to shop lots.
+                        We are able to supply to any car manufacturer with ease as we have many years of expertise, specialized installation methods and precise film cutting machinery. As of currently, we have installed over more than 1,000,000 cars directly at the car manufacturers’ venue and the numbers are still growing. With a manpower of more than 300 installers, we are able to cope with the high quantity of cars supplied by the car manufacturers.
                       </div>
                     </div>
                     <div>
                       <div class="home-slider-title">
-                        OEM/REM SUPPLY
+                        PROJECT SERVICES
                       </div>
                       <div class="home-slider-text">
-                        We are able to supply to any car manufacturer with ease as we have many years of expertise, specialized installation methods and precise film cutting machinery. As of currently, we have installed over more than 1,000,000 cars directly at the car manufacturers’ venue and the numbers are still growing. With a manpower of more than 300 installers, we are able to cope with the high quantity of cars supplied by the car manufacturers.
+                        We provide solutions and services for the commercial and residential sector, where experiencing heat through windows is a common occurrence every day. We have experienced installers that are able to install window films from residential to high rise buildings. We also install window films for various corporates as well, from banks to shop lots.
                       </div>
                     </div>
 
@@ -152,16 +152,16 @@
             <!-- The slideshow -->
             <div class="carousel-inner">
               <div class="carousel-item active slider-img-mobile">
-                <div><div><img class="slider-img-m" src="images/home-slider-1.png" alt=""></div></div>
+              <div><div><img class="slider-img-m" src="images/home-slider-3.png" alt=""></div></div>
                 <div class="home-slider-title slider-mobile">
-                  PROJECT SERVICES
+                  MANUFACTURING
                 </div>
                 <div class="home-slider-text slider-mobile">
-                  We provide solutions and services for the commercial and residential sector, where experiencing heat through windows is a common occurrence every day. We have experienced installers that are able to install window films from residential to high rise buildings. We also install window films for various corporates as well, from banks to shop lots.
+                  Window film manufacturing is our core business as of today. Evolving from a perspective of a window film distributor and international supplier, we understand the needs of the market around the world. Today, we have researched and developed the best way to preserve the performance of a window film by embedding various heat rejecting nano-ceramic materials into the PET base film itself via polymerization process. Also, by having a world class coating and lamination line, we are able to produce quality table window film for our customers.
                 </div>
               </div>
               <div class="carousel-item slider-img-mobile">
-                <div><div><img class="slider-img-m" src="images/home-slider-2.png" alt=""></div></div>
+                <div><div><img class="slider-img-m" src="images/home-slider-1.png" alt=""></div></div>
                 <div class="home-slider-title slider-mobile">
                   OEM/REM SUPPLY
                 </div>
@@ -170,12 +170,13 @@
                 </div>
               </div>
               <div class="carousel-item slider-img-mobile">
-                <div><div><img class="slider-img-m" src="images/home-slider-3.png" alt=""></div></div>
+                
+                <div><div><img class="slider-img-m" src="images/home-slider-2.png" alt=""></div></div>
                 <div class="home-slider-title slider-mobile">
-                  MANUFACTURING
+                  PROJECT SERVICES
                 </div>
                 <div class="home-slider-text slider-mobile">
-                  Window film manufacturing is our core business as of today. Evolving from a perspective of a window film distributor and international supplier, we understand the needs of the market around the world. Today, we have researched and developed the best way to preserve the performance of a window film by embedding various heat rejecting nano-ceramic materials into the PET base film itself via polymerization process. Also, by having a world class coating and lamination line, we are able to produce quality table window film for our customers.
+                  We provide solutions and services for the commercial and residential sector, where experiencing heat through windows is a common occurrence every day. We have experienced installers that are able to install window films from residential to high rise buildings. We also install window films for various corporates as well, from banks to shop lots.
                 </div>
               </div>
 
@@ -214,6 +215,7 @@
 
               <div class="container-fluid text-center">
                 <img class="gridicon" src="images/i_gif4.gif">
+                <!-- <span class="border" style="background-color: #ED1F23; max-width: 2px; min-height: 100%;">x</span> -->
                 <div class="index-title index-title-main">CUSTOMER FOCUSED</div>
                 <div class="text-justify index-text">
                 <p>We are seeking to build a long term and effective customer base.
@@ -221,8 +223,10 @@
         as well as the industry’s standard.</p>
                 </div>
               </div>
+              
+                
             </div>
-
+            <!-- <div class="col-sm d-none d-xl-block" style="background-color: red; min-height: 100%; max-width: -1px"></div> -->
             <div class="col-sm">
               <div class="container-fluid text-center">
                 <img class="gridicon" src="images/igif_2.gif">
