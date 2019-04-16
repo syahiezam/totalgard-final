@@ -89,6 +89,38 @@
   background-image: url("../images/product-default.png");
 }
 
+.product-item-open-1{
+  background-image: url("../images/product-open-1.png");
+}
+
+.product-item-open-2{
+  background-image: url("../images/product-open-2.png");
+}
+
+.product-item-open-3{
+  background-image: url("../images/product-open-3.png");
+}
+
+.product-item-open-4{
+  background-image: url("../images/product-open-4.png");
+}
+
+.product-item-open-5{
+  background-image: url("../images/product-open-5.png");
+}
+
+.product-item-open-6{
+  background-image: url("../images/product-open-6.png");
+}
+
+.product-item-open-7{
+  background-image: url("../images/product-open-7.png");
+}
+
+.product-item-open-8{
+  background-image: url("../images/product-open-8.png");
+}
+
 /* .product-item-desktop:hover{
 } */
 

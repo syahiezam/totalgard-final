@@ -30,7 +30,7 @@ jQuery(function($){
       // $('.product-content').css('transition-delay','1s');
       $('.product-item-hover').css('transition-delay','0');
       $('.product-main').addClass('product-main-'+i);
-      $('.product-item-'+i).addClass('product-item-open');
+      $('.product-item-'+i).addClass('product-item-open-'+i);
       $('.product-content-'+i).removeClass('d-none');
       $('.product-content').css('z-index','2');
       $('.product-content-background').css('z-index','1');
@@ -104,7 +104,7 @@ jQuery(function($){
       // $('.product-item').removeClass('product-item-hover');
       for (j=1; j<10; j++) {
         $('.product-main').removeClass('product-main-'+j);
-        $('.product-item-'+j).removeClass('product-item-open');
+        $('.product-item-'+j).removeClass('product-item-open-'+j);
         $('.product-item-'+j).removeClass('product-item-closed');
         $('.product-content-'+j).addClass('d-none');
       }
