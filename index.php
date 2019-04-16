@@ -116,35 +116,12 @@
                       <div><div><img class="slider-img" src="images/home-slider-3.png" alt=""></div></div>
                     <div><div><img class="slider-img" src="images/home-slider-1.png" alt=""></div></div>
                     <div><div><img class="slider-img" src="images/home-slider-2.png" alt=""></div></div>
-
-                  <!-- <div><div class="kontol2">1</div></div>
-                    <div><div class="kontol2">2</div></div>
-                    <div><div class="kontol2">3</div></div> -->
                   </div>
                 </div>
               </div>
           </div>
         </div>
 
-      <!-- <div class="container-fluid">
-        <div class="row">
-          <div class="col-sm">
-          </div>
-          <div class="col-sm">
-            <img src="images/icontall/bmtrade.png"/>
-          </div>
-          <div class="col-sm">
-            <img src="images/icontall/ukas.png"/>
-          </div>
-          <div class="col-sm">
-            <img src="images/icontall/ukas.png"/>
-          </div>
-          <div class="col-sm">
-            <img src="images/icontall/iso.png"/>
-          </div>
-          <div class="col-sm">
-            <img src="images/icontall/cancer.jpg"/>
-          </div>-->
 
         <div class="d-xl-none">
           <div id="mobile-carousel" class="carousel slide" >
@@ -179,16 +156,6 @@
                   We provide solutions and services for the commercial and residential sector, where experiencing heat through windows is a common occurrence every day. We have experienced installers that are able to install window films from residential to high rise buildings. We also install window films for various corporates as well, from banks to shop lots.
                 </div>
               </div>
-
-
-              <!-- <div class="carousel-item">
-                <img src="chicago.jpg" alt="Chicago" width="1100" height="500">
-              </div>
-              <div class="carousel-item">
-                <img src="ny.jpg" alt="New York" width="1100" height="500">
-              </div>
-            </div> -->
-
             </div>
             <!-- Left and right controls -->
             <a class="carousel-control-prev" href="#mobile-carousel" data-slide="prev">
@@ -271,28 +238,40 @@
 
                 <div class="d-flex">
                   <div class="customer">
-                    <img src="images/icontall/cert1.png"/>
-                  </div>
-                  <div class="border border-primary home-border"></div>
-                  <div class="customer">
-                    <img src="images/icontall/cert2.png"/>
-                  </div>
-                  <div class="border border-primary home-border"></div>
-
-                  <div class="customer">
                     <img src="images/icontall/cert3.png"/>
                   </div>
-                  <div class="border border-primary home-border"></div>
 
+                  <div class="d-none d-xl-block home-border"></div>
+                  
                   <div class="customer">
                     <img src="images/icontall/cert4.png"/>
                   </div>
-                  <div class="border border-primary home-border"></div>
+                  
+                  <div class="d-none d-xl-block home-border"></div>
+
+                  <div class="customer">
+                    <img src="images/icontall/cert8.png"/>
+                  </div>
+                  <div class="customer">
+                    <img src="images/icontall/cert7.png"/>
+                  </div>
+
+                  <div class="d-none d-xl-block home-border"></div>
+
+                  <div class="customer">
+                    <img src="images/icontall/cert8.png"/>
+                  </div>
+                  <div class="customer">
+                    <img src="images/icontall/cert7.png"/>
+                  </div>
+
+                  <div class="d-none d-xl-block home-border"></div>
 
                   <div class="customer">
                     <img src="images/icontall/cert5.png"/>
                   </div>
-                  <div class="border border-primary home-border"></div>
+                  
+                  <div class="d-none d-xl-block home-border"></div>
 
                   <div class="customer">
                     <img src="images/icontall/cert6.png"/>
