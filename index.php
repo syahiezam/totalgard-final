@@ -18,8 +18,8 @@
         <div class="modal-body">
           <div class="col-12 modal-img d-none d-xl-block"><img src="images/newsletter.png" width="100%" height=""/></div>
           <div class="col-12 modal-img-mobile d-xl-none"><img src="images/newsletter.png" width="100%" height=""/></div>
-          <h5 style="color:#ED1C24;">SUBSCRIBE AND RECEIVE <br>OUR LATEST NEWS,</h5>
-          <h5 style="color:#ED1C24;">EXCLUSIVE OFFERS DIRECT <br>TO YOUR INBOX!</h5>
+          <div class="modal-title pt-5">SUBSCRIBE AND RECEIVE OUR <br>LATEST NEWS,</div>
+          <div class="modal-title">EXCLUSIVE OFFERS DIRECT <br>TO YOUR INBOX!</div>
           <div class="form-group">
             <form>
               <div class="form-group">
@@ -93,7 +93,7 @@
                     </div>
                     <div>
                       <div class="home-slider-title">
-                        OEM/REM SUPPLY                        
+                        OEM/REM SUPPLY
                       </div>
                       <div class="home-slider-text">
                         We are able to supply to any car manufacturer with ease as we have many years of expertise, specialized installation methods and precise film cutting machinery. As of currently, we have installed over more than 1,000,000 cars directly at the car manufacturers’ venue and the numbers are still growing. With a manpower of more than 300 installers, we are able to cope with the high quantity of cars supplied by the car manufacturers.
@@ -170,7 +170,7 @@
                 </div>
               </div>
               <div class="carousel-item slider-img-mobile">
-                
+
                 <div><div><img class="slider-img-m" src="images/home-slider-2.png" alt=""></div></div>
                 <div class="home-slider-title slider-mobile">
                   PROJECT SERVICES
@@ -223,8 +223,8 @@
         as well as the industry’s standard.</p>
                 </div>
               </div>
-              
-                
+
+
             </div>
             <!-- <div class="col-sm d-none d-xl-block" style="background-color: red; min-height: 100%; max-width: -1px"></div> -->
             <div class="col-sm">
@@ -293,7 +293,7 @@
                     <img src="images/icontall/cert5.png"/>
                   </div>
                   <div class="border border-primary home-border"></div>
-                  
+
                   <div class="customer">
                     <img src="images/icontall/cert6.png"/>
                   </div>
